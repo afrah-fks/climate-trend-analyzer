@@ -67,16 +67,16 @@ Climate-Trend-Analyzer/
 
  Installation
 
-```bash
+
 pip install -r requirements.txt
-```
+
 
 
  How to Run
 
-```bash
+
 python main.py
-```
+
 
 
  Simulation Workflow
@@ -97,8 +97,7 @@ python main.py
 
 
  Screenshots
-
-![Trend](images/temp_trend.png)
+[Trend](images/temp_trend.png)
 ![Anomaly](images/anomalies.png)
 
 

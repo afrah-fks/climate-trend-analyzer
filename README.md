@@ -97,8 +97,8 @@ python main.py
 
 
  Screenshots
-[Trend](images/temp_trend.png)
-![Anomaly](images/anomalies.png)
+![Trend](output/plots/temp_trend.png)
+![Anomaly](output/plots/anomalies.png)
 
 
 
